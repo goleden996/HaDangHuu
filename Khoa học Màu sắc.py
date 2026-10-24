@@ -4,4 +4,4 @@ st.set_page_config(
 )
 
 st.write("### Chào mừng bạn đến với project Khoa học Màu sắc của mình!")
-st.write("# Mình tên là Võ Tự Thanh, MaSV 22158139")
+st.write("# Mình tên là Hà Đăng Hữu, MaSV 23458008")
