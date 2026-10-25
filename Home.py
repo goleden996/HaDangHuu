@@ -30,6 +30,7 @@ with c3:
 st.divider()
 st.markdown(
     """
+    st.caption("Sinh viên thực hiện: Hà Đăng Hữu – MSSV 23458008")
 ### Nội dung trang web
 | STT | Nội dung |
 |---|---|
@@ -46,4 +47,4 @@ st.markdown(
 Chọn từng trang ở thanh bên trái.
 """
 )
-st.caption("Sinh viên thực hiện: Hà Đăng Hữu – MSSV 23458008")
+
