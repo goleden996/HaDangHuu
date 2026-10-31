@@ -21,7 +21,7 @@ with c2:
     st.markdown(
         "<h1 style='text-align:center;'>KHOA HỌC MÀU SẮC</h1>"
         "<h4 style='text-align:center;'>Ứng dụng Matlab trong công nghệ in</h4>"
-        "<p style='text-align:center;'>Trường Đại học Công nghệ TP.HCM (HUTECH) – Khoa In và Truyền Thông</p>",
+        "<p style='text-align:center;'>Trường Đại học Công nghệ Kỹ Thuật TP.HCM – Khoa In và Truyền Thông</p>",
         unsafe_allow_html=True,
     )
 with c3:
